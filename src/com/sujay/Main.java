@@ -21,5 +21,6 @@ public class Main {
         System.out.println("This for the feature branch2");
         System.out.println("This is a test for the pull result");
 	System.out.println("This is a test for the git pull rebase");
+	System.out.println("This is a test for the git pull rebase - Conflict");    
     }
 }
